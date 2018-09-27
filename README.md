@@ -1,5 +1,5 @@
 # Automate-the-Boring-Stuff
-Following the Intro Python book "Automate the Boring Stuff" by Al Sweigart.
+Following the intro Python book "Automate the Boring Stuff" by Al Sweigart.
 
 These are Python projects I've completed so far, please feel free to compare with your own solutions.
-It was written with Python version 3.7 on a Windows PC
+I am using Python 3.7 on a Windows PC

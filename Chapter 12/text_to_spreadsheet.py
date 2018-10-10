@@ -3,7 +3,6 @@
 # on one row in an Excel spreadsheet
 
 import openpyxl, os
-from openpyxl.utils import get_column_letter
 
 # This line used to create some random text files.
 ##for i in range(10):
